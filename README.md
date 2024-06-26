@@ -56,7 +56,7 @@ This package has been tested using the following:
 | Heroku Common Runtime       |  -            |
 | Heroku Private Space        |     -         |
 | MuleSoft CloudHub Anypoint  | -             | 
-| Flex Gateway Docker image   | 1.6.0         | 
+| Flex Gateway Docker image   | 1.7.0         | 
 | Docker desktop              | 4.21.1        | 
 
 
